@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 645e15c9ed01dc748945f24b933d681b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - drpmenu: {instanceID: 0}
+  - buttonImage: {instanceID: 0}
+  - openSprite: {fileID: -647414188, guid: ca86eda6a8ff1c84083ff1e07d0a4a80, type: 3}
+  - closeSprite: {fileID: 1731915856, guid: 92c7e3bd47622a94791805aa4911e6dc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
